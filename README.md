@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/animate-react-native/skill/main/docs/banner-dark.png">
+  <img alt="AnimateReactNative skill: a free skill that teaches your coding agent how React Native animations are built" src="https://raw.githubusercontent.com/animate-react-native/skill/main/docs/banner.png">
+</picture>
+
 # AnimateReactNative skill
 
 A free skill that teaches your coding agent how React Native animations are built, with the patterns behind the [AnimateReactNative](https://www.animatereactnative.com) library. It works with Claude Code, Cursor, Codex and any other agent that reads skills.
